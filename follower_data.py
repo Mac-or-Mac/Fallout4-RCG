@@ -1,0 +1,1 @@
+data = ["Curie", "Nick Valentine", "Cait", "MacCready", "Codsworth", "Danse", "Deacon", "Hancock", "Piper", "Preston", "Strong", "X6-88", "Ada", "Old Longfellow", "Gage", "Dogmeat", "None"]
